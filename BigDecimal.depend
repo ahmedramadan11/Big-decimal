@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1540579576 source:d:\fci\2\pro\ass answers\2\bigdecimal\new folder\bigdecimal\main.cpp
+	<iostream>
+	"BigDecimal.h"
+
+1540579336 d:\fci\2\pro\ass answers\2\bigdecimal\new folder\bigdecimal\bigdecimal.h
+	<cstring>
+	<iostream>
+
+1540579359 source:d:\fci\2\pro\ass answers\2\bigdecimal\new folder\bigdecimal\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1541091667 source:d:\fci\2\pro\ass answers\2\bigdecimal\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1541074125 d:\fci\2\pro\ass answers\2\bigdecimal\bigdecimal.h
+	<cstring>
+	<iostream>
+
+1541074125 source:d:\fci\2\pro\ass answers\2\bigdecimal\main.cpp
+	<iostream>
+	"BigDecimal.h"
+
